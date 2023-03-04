@@ -7,6 +7,7 @@ English | [简体中文](https://github.com/MCG-NKU/E2FGVI/blob/master/README_zh
 本项目包含了以下论文的mindspore实现：
 
 > **Image Dehazing Transformer with Transmission-Aware 3D Position Embedding**
+>
 > Chunle Guo  Qixin Yan   Saeed Anwar   Runmin Cong  Wenqi Ren  Chongyi Li+ 
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022
 
